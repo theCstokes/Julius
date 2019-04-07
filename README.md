@@ -2,8 +2,6 @@
 Prevent epilepsies by detecting quick flashes on screen and blocking them.
 
 ## Links
-[Website](http://projectjuli.us)
-
 [Challenge Post](http://deltahacks.challengepost.com/submissions/33000-project-julius)
 
 ## Use
